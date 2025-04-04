@@ -30,8 +30,6 @@ Ein hochmodernes Report-System für Minecraft-Server mit GUI-Menüs und Admin-To
 ```perms
 permissions:
   r.use:
-    description: Erlaubt das Nutzen des Report-Systems
     default: true
   r.admin:
-    description: Erlaubt das Anzeigen und Bearbeiten von Reports
     default: op
